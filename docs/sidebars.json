@@ -2,11 +2,11 @@
   "sidebar1": [
     {
       "type": "doc",
-      "id": "基本语法1.mdx",
+      "id": "基本语法1",
       "label": "基本语法label测试"
     },
-    "voice_and_video_call/video_call.mdx",
-    "voice_and_video_call/voice_call.mdx",
+    "voice_and_video_call/video_call",
+    "voice_and_video_call/voice_call",
     {
       "type": "link",
       "label": "Google link",
@@ -16,18 +16,22 @@
       "type": "category",
       "label": "category正常写法",
       "items": [
-        "基本语法1.mdx",
-        "complex_components/callout1.mdx"
+        "基本语法1",
+        "complex_components/callout1"
       ]
     },
     {
-      "category简单写法": [
+      "type": "category",
+      "label": "category正常写法222",
+      "items": [
         "complex_components/link1",
         {
-          "category下的category": [
-            "voice_and_video_call/video_call.mdx",
-            "voice_and_video_call/voice_call.mdx",
-            "基本语法1.mdx"
+          "type": "category",
+          "label": "category下有category",
+          "items": [
+            "voice_and_video_call/video_call",
+            "voice_and_video_call/voice_call",
+            "基本语法1"
           ]
         },
         {
