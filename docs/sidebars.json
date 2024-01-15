@@ -19,18 +19,6 @@
         "基本语法1",
         "complex_components/callout1"
       ]
-    },
-    {
-      "type": "category",
-      "label": "category正常写法222",
-      "items": [
-        "complex_components/link1",
-        {
-          "type": "link",
-          "label": "Google",
-          "href": "https://google.com"
-        }
-      ]
     }
   ]
 }
