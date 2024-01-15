@@ -1,38 +1,48 @@
 {
   "title": "My Site",
   "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace49/2ab0a1450e0c751738b176564e4497de/favicon.ico",
-  "instances": [{
-    "id": "default",
-    "label": "docs",
-    "path": "docs",
-    "routeBasePath": "docs"
-  }],
+  "instances": [
+    {
+      "id": "default",
+      "label": "docs",
+      "path": "docs",
+      "routeBasePath": "docs"
+    }
+  ],
   "themeConfig": {
     "navbar": {
       "title": "sunliying",
       "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace49/2ab0a1450e0c751738b176564e4497de/logo.png",
       "iconRedirectUrl": "https://www.zegocloud.com",
-      "items": [{
+      "items": [
+        {
           "type": "default",
           "href": "https://app.spreading.ai",
           "label": "Blog"
         },
         {
           "type": "docSidebar",
-          "sidebarIds": ["sidebar1"],
+          "sidebarIds": [
+            "sidebar1"
+          ],
           "label": "NavItem1"
         },
         {
           "type": "docSidebar",
-          "sidebarIds": ["sidebar1"],
+          "sidebarIds": [
+            "sidebar1"
+          ],
           "label": "NavItem2"
         },
         {
           "type": "dropdown",
           "label": "Dropdown1",
-          "items": [{
+          "items": [
+            {
               "type": "docSidebar",
-              "sidebarIds": ["sidebar1"],
+              "sidebarIds": [
+                "sidebar1"
+              ],
               "label": "NavItem3"
             },
             {
@@ -48,30 +58,38 @@
       "logo": "image/logo.png",
       "copyright": "Copyright @2024 SPREADING. All Rights Reserved",
       "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.",
-      "links": [{
+      "links": [
+        {
           "title": "Products",
-          "items": [{
-            "label": "Voice call",
-            "href": "https://www.zegocloud.com/product/video-call"
-          }]
+          "items": [
+            {
+              "label": "Voice call",
+              "href": "https://www.zegocloud.com/product/video-call"
+            }
+          ]
         },
         {
           "title": "Solutions",
-          "items": [{
-            "label": "Social",
-            "href": "https://www.zegocloud.com/product/voice-call"
-          }]
+          "items": [
+            {
+              "label": "Social",
+              "href": "https://www.zegocloud.com/product/voice-call"
+            }
+          ]
         },
         {
           "title": "Company",
-          "items": [{
-            "label": "About",
-            "href": "https://www.zegocloud.com/product/voice-call"
-          }]
+          "items": [
+            {
+              "label": "About",
+              "href": "https://www.zegocloud.com/product/voice-call"
+            }
+          ]
         },
         {
           "title": "Developers",
-          "items": [{
+          "items": [
+            {
               "label": "Documentation",
               "href": "https://example.com/link3"
             },
@@ -82,7 +100,8 @@
           ]
         }
       ],
-      "socials": [{
+      "socials": [
+        {
           "logo": "Linkedin",
           "href": "https://example.com/social1"
         },

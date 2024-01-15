@@ -1,5 +1,6 @@
 {
-  "sidebar1": [{
+  "sidebar1": [
+    {
       "type": "doc",
       "id": "基本语法1.mdx",
       "label": "基本语法label测试"
@@ -14,13 +15,20 @@
     {
       "type": "category",
       "label": "category正常写法",
-      "items": ["基本语法1.mdx", "complex_components/callout1.mdx"]
+      "items": [
+        "基本语法1.mdx",
+        "complex_components/callout1.mdx"
+      ]
     },
     {
       "category简单写法": [
         "complex_components/link1",
         {
-          "category下的category": ["voice_and_video_call/video_call.mdx", "voice_and_video_call/voice_call.mdx", "基本语法1.mdx"]
+          "category下的category": [
+            "voice_and_video_call/video_call.mdx",
+            "voice_and_video_call/voice_call.mdx",
+            "基本语法1.mdx"
+          ]
         },
         {
           "type": "link",
