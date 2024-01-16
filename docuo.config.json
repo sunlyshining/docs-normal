@@ -1,6 +1,6 @@
 {
-  "title": "My Site",
-  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace49/2ab0a1450e0c751738b176564e4497de/favicon.ico",
+  "title": "sunliying site",
+  "favicon": "https://s1.aigei.com/src/img/png/1c/1cb81b1ad9184e158aa6becdee95dc3f.png?imageView2/2/w/201&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:IARXQFWOlSaEaaylVnGe-oBZLhs=",
   "instances": [
     {
       "id": "default",
@@ -11,9 +11,9 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "sunliying",
-      "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace49/2ab0a1450e0c751738b176564e4497de/logo.png",
-      "iconRedirectUrl": "https://www.zegocloud.com",
+      "title": "hhhahahh zhejhs hdhe",
+      "logo": "https://s1.aigei.com/src/img/png/8b/8b47f4acd3294399a9cd81e40c4604c2.png?imageView2/2/w/130&e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:770akJdwPQEliMvw1rK0s5kU24c=",
+      "iconRedirectUrl": "https://www.zego.im",
       "items": [
         {
           "type": "default",
@@ -23,14 +23,14 @@
         {
           "type": "docSidebar",
           "sidebarIds": [
-            "sidebar1"
+            " mySidebar"
           ],
           "label": "NavItem1"
         },
         {
           "type": "docSidebar",
           "sidebarIds": [
-            "sidebar1"
+            " mySidebar"
           ],
           "label": "NavItem2"
         },
@@ -41,7 +41,7 @@
             {
               "type": "docSidebar",
               "sidebarIds": [
-                "sidebar1"
+                " mySidebar"
               ],
               "label": "NavItem3"
             },
@@ -103,7 +103,55 @@
       "socials": [
         {
           "logo": "Linkedin",
-          "href": "https://example.com/social1"
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "Twitter",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Facebook",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Youtube",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Github",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Discord",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Linkedin",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "Twitter",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Facebook",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Youtube",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Github",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Discord",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Linkedin",
+          "href": "https://www.baidu.com"
         },
         {
           "logo": "Twitter",
