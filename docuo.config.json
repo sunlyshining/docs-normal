@@ -279,7 +279,7 @@
       ],
       "socials": [
         {
-          "logo": "Linkedin",
+          "logo": "LinkedIn",
           "href": "https://www.baidu.com"
         },
         {
@@ -293,6 +293,18 @@
         {
           "logo": "YouTube",
           "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Github",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "Discord",
+          "href": "https://example.com/social2"
+        },
+        {
+          "logo": "X",
+          "href": "https://www.baidu.com"
         }
       ]
     }
