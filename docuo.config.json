@@ -18,17 +18,17 @@
         {
           "type": "default",
           "href": "https://app.spreading.ai",
-          "label": "Blog"
+          "label": "Blog1"
         },
         {
           "type": "default",
           "href": "https://app.spreading.ai",
-          "label": "Blog"
+          "label": "Blog2"
         },
         {
           "type": "default",
           "href": "https://app.spreading.ai",
-          "label": "Blog"
+          "label": "Blog3"
         },
         {
           "type": "docSidebar",
@@ -48,11 +48,9 @@
           "label": "Dropdown1",
           "items": [
             {
-              "type": "docSidebar",
-              "sidebarIds": [
-                "mySidebar"
-              ],
-              "label": "NavItem3"
+              "type": "default",
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo Blog"
             },
             {
               "type": "docSidebar",
@@ -158,7 +156,7 @@
       ]
     },
     "footer": {
-      "logo": "image/logo.png",
+      "logo": "https://www.markdown.xyz/assets/images/tux.png",
       "copyright": "Copyright @2024 SPREADING. All Rights Reserved",
       "caption": "mbed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.",
       "links": [
@@ -304,6 +302,26 @@
         },
         {
           "logo": "X",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/logo.png",
+          "href": "https://example.com/11"
+        },
+        {
+          "logo": "image/2.svg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/kuan.jpg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "image/xxx.jpeg",
+          "href": "https://www.baidu.com"
+        },
+        {
+          "logo": "https://www.markdown.xyz/assets/images/tux.png",
           "href": "https://www.baidu.com"
         }
       ]
