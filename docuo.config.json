@@ -1,6 +1,6 @@
 {
   "title": "sunliying site",
-  "favicon": "image/favicon.ico",
+  "favicon": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace64/144d26730b428484af62e7a40f74a0ca/favicon.ico",
   "instances": [
     {
       "id": "default",
@@ -12,7 +12,7 @@
   "themeConfig": {
     "navbar": {
       "title": "hhhahahh zhejhs hdhe",
-      "logo": "image/logo.png",
+      "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace64/144d26730b428484af62e7a40f74a0ca/logo.png",
       "iconRedirectUrl": "https://www.zego.im",
       "items": [
         {
@@ -61,7 +61,7 @@
               ],
               "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
             }
-          ] 
+          ]
         },
         {
           "type": "dropdown",
@@ -81,7 +81,8 @@
               "type": "default",
               "href": "https://www.baidu.com",
               "label": "baidu hdehde  dhdhe"
-            },{
+            },
+            {
               "type": "default",
               "href": "https://app.spreading.ai",
               "label": "Blog"
