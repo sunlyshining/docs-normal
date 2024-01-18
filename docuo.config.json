@@ -33,14 +33,14 @@
         {
           "type": "docSidebar",
           "sidebarIds": [
-            " mySidebar"
+            "mySidebar"
           ],
           "label": "11"
         },
         {
           "type": "docSidebar",
           "sidebarIds": [
-            " mySidebar"
+            "mySidebar"
           ],
           "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
         },
@@ -50,14 +50,14 @@
             {
               "type": "docSidebar",
               "sidebarIds": [
-                " mySidebar"
+                "mySidebar"
               ],
               "label": "NavItem3"
             },
             {
               "type": "docSidebar",
               "sidebarIds": [
-                " mySidebar"
+                "mySidebar"
               ],
               "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
             }
