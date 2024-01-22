@@ -13,7 +13,148 @@
     "navbar": {
       "title": "frome this way ",
       "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace64/144d26730b428484af62e7a40f74a0ca/logo.png",
-      "iconRedirectUrl": "https://console.zegocloud.com"
+      "iconRedirectUrl": "https://console.zegocloud.com",
+      "items": [
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog1"
+        },
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog2"
+        },
+        {
+          "type": "default",
+          "href": "https://app.spreading.ai",
+          "label": "Blog3"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarIds": [
+            "mySidebar"
+          ],
+          "label": "11"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarIds": [
+            "mySidebar"
+          ],
+          "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
+        },
+        {
+          "label": "Dropdown1",
+          "items": [
+            {
+              "type": "default",
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo Blog"
+            },
+            {
+              "type": "docSidebar",
+              "sidebarIds": [
+                "mySidebar"
+              ],
+              "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
+            }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "label": "zhegde",
+          "items": [
+            {
+              "type": "default",
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo Blog"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "youdehdeb app"
+            },
+            {
+              "type": "default",
+              "href": "https://www.baidu.com",
+              "label": "baidu hdehde  dhdhe"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog11111111"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog2222222222"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "hhah dhehde dhehd edeh de "
+            },
+            {
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog11111111"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog2222222222"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "hhah dhehde dhehd edeh de "
+            },
+            {
+              "href": "https://feedeo.spreading.ai",
+              "label": "feedeo"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "great-granddaughter"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "Blog11111111"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "pneumonoultramicroscopicsilicovolcanoconiosis"
+            },
+            {
+              "type": "default",
+              "href": "https://app.spreading.ai",
+              "label": "hhah dhehde dhehd edeh de "
+            },
+            {
+              "href": "https://feedeo.spreading.ai",
+              "label": "Documentation description"
+            }
+          ]
+        }
+      ]
     },
     "footer": {
       "logo": "https://www.markdown.xyz/assets/images/tux.png",
