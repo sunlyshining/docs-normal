@@ -11,9 +11,9 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "frome this way ",
-      "logo": "https://zego-to-spreading.oss-ap-southeast-1.aliyuncs.com/docuo/workspace64/144d26730b428484af62e7a40f74a0ca/logo.png",
-      "iconRedirectUrl": "https://console.zegocloud.com",
+      "title": "On%20the%20way",
+      "logo": "https://media-resource.spreading.io/docuo/workspace8/c940f62cc6b618d028dd59f7828e26c9/logo.png",
+      "iconRedirectUrl": "https://zegocloud.com",
       "items": [
         {
           "type": "default",
