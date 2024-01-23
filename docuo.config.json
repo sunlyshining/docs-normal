@@ -11,7 +11,7 @@
   ],
   "themeConfig": {
     "navbar": {
-      "title": "On%20the%20way",
+      "title": "正式环境 文件的修改",
       "logo": "https://media-resource.spreading.io/docuo/workspace8/c940f62cc6b618d028dd59f7828e26c9/logo.png",
       "iconRedirectUrl": "https://zegocloud.com",
       "items": [
